@@ -21,7 +21,8 @@ ou encore...
 
 
 
-> ceci est un texte cité blablablablablabla
+> ceci est une citation de texte lorem  
+> ipsum indolorissblablablablablabla  
 > blablablablabla
 
 une liste à puces

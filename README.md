@@ -1,4 +1,3 @@
-# test
 ceci est un texte en *italique*
 et ceci est aussi en _italique_
 
@@ -30,9 +29,9 @@ une liste à puces
 * * sous-puce numero 1a
 * puce numero 2
 
-un liste à puces numérotée
-1. ligne 1
-2. ligne 2
+un liste à puces numérotée  
+1. ligne 1  
+2. ligne 2  
 3. ligne 3
 
 Voici un code en C :
